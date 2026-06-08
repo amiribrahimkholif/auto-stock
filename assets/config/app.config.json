@@ -1,0 +1,76 @@
+{
+  "business": {
+    "name_en": "AUTO STOCK",
+    "name_ar": "أوتو ستوك",
+    "tagline_en": "All The Parts You Need. Just Arrived",
+    "tagline_ar": "كل القطع التي تحتاجها. وصلت للتو",
+    "founded": 2015,
+    "customers_count": "50K+",
+    "guarantee_en": "100% Quality Guarantee",
+    "guarantee_ar": "100% ضمان الجودة"
+  },
+  "contact": {
+    "phone": "313-483-4947",
+    "email": "support@autostock.com",
+    "address_en": "515 Auto Street, Detroit, MI 48201",
+    "address_ar": "515 شارع أوتو، ديترويت، MI 48201",
+    "hours_en": "Mon–Fri 9AM–8PM EST",
+    "hours_ar": "الإثنين–الجمعة 9ص–8م"
+  },
+  "brand": {
+    "accent_color": "#F5C518",
+    "background_color": "#0A0A0A",
+    "card_color": "#1A1A1A",
+    "text_color": "#FFFFFF"
+  },
+  "hero": {
+    "heading_en": "AUTO PARTS",
+    "heading_ar": "قطع السيارات",
+    "subtitle_en": "All The Parts You Need. Just Arrived",
+    "subtitle_ar": "كل القطع التي تحتاجها. وصلت للتو",
+    "cta_en": "CATALOG",
+    "cta_ar": "الكتالوج"
+  },
+  "about": {
+    "heading_en": "ABOUT US",
+    "heading_ar": "من نحن",
+    "body_en": "AUTO STOCK is an automotive parts e-commerce platform built for performance, reliability and trust. We supply high-quality auto parts for all makes. Fast delivery. Fair prices. Real support.",
+    "body_ar": "أوتو ستوك منصة إلكترونية لقطع غيار السيارات مبنية على الأداء والموثوقية والثقة. نوفر قطع غيار عالية الجودة لجميع الموديلات. توصيل سريع. أسعار عادلة. دعم حقيقي.",
+    "watermark_en": "TRUSTED AUTO PARTS WITH EXPERT SERVICE",
+    "watermark_ar": "قطع سيارات موثوقة مع خدمة احترافية"
+  },
+  "categories": [
+    { "id": 1, "name_en": "Engine Parts",           "name_ar": "قطع المحرك",         "icon": "engine" },
+    { "id": 2, "name_en": "Braking System",          "name_ar": "نظام الفرامل",        "icon": "brake" },
+    { "id": 3, "name_en": "Suspension & Steering",   "name_ar": "التعليق والتوجيه",    "icon": "suspension" },
+    { "id": 4, "name_en": "Exhaust & Emissions",     "name_ar": "العادم والانبعاثات",  "icon": "exhaust" },
+    { "id": 5, "name_en": "Electronics",             "name_ar": "الإلكترونيات",        "icon": "electronics" },
+    { "id": 6, "name_en": "Filters & Oils",          "name_ar": "الفلاتر والزيوت",     "icon": "filter" }
+  ],
+  "trust_badges": [
+    { "icon": "verified",  "label_en": "Premium Quality",  "label_ar": "جودة عالية",      "desc_en": "Guaranteed Performance", "desc_ar": "أداء مضمون" },
+    { "icon": "inventory", "label_en": "Wide Selection",   "label_ar": "تشكيلة واسعة",    "desc_en": "Thousands of Parts",     "desc_ar": "آلاف القطع" },
+    { "icon": "local_shipping", "label_en": "Fast Delivery", "label_ar": "توصيل سريع",   "desc_en": "Get Your Parts Fast",    "desc_ar": "استلم قطعك بسرعة" },
+    { "icon": "lock",      "label_en": "Secure Payment",   "label_ar": "دفع آمن",         "desc_en": "100% Safe & Secure",     "desc_ar": "آمن 100%" }
+  ],
+  "social": {
+    "whatsapp": "",
+    "facebook": "",
+    "instagram": "",
+    "catalog_url": "/catalog"
+  },
+  "footer": {
+    "copyright_en": "© 2025 AUTO STOCK. All rights reserved.",
+    "copyright_ar": "© 2025 أوتو ستوك. جميع الحقوق محفوظة.",
+    "show_nav_links": true
+  },
+  "defaults": {
+    "language": "en",
+    "direction": "ltr",
+    "currency": "$"
+  },
+  "admin": {
+    "username": "admin",
+    "password": "admin123"
+  }
+}
